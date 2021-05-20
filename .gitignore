@@ -299,7 +299,7 @@ paket-files/
 # dependencies
 node_modules
 **/.env
-
+.env
 # FAKE - F# Make
 .fake/
 
