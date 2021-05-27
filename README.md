@@ -32,7 +32,7 @@ HTML, CSS, JS, React, Noda
 - New message contains sender's name and text
 - After a forced reload of the page, the message does not disappear, does not move
 - When entering the page from another browser, the message remains in place (data storage on the server)
- `Frontend`
+ ###Frontend
 - Used any of the UI frameworks
 - Adaptive layout
 - On hover and other events, application elements do not move
@@ -49,7 +49,7 @@ HTML, CSS, JS, React, Noda
 - After submitting the form, the message text field is cleared
 - After submitting the form, the author field is NOT cleared
 - Environment variables used
-- `Backend`
+###Backend
 - The code is structured
 - Database used
 - Errors are handled
