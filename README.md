@@ -49,7 +49,7 @@ HTML, CSS, JS, React, Noda
 - After submitting the form, the message text field is cleared
 - After submitting the form, the author field is NOT cleared
 - Environment variables used
- `Backend`
+- `Backend`
 - The code is structured
 - Database used
 - Errors are handled
