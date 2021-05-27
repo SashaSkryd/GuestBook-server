@@ -9,8 +9,7 @@ async function addComments(req, res) {
       ...body,
       time: moment().format("h:mm:ss, MMM Do YY"),
     })
-    const comments = await Comments.find()
-    res.status(200).json(comments)
+    res.status(200).json(commentsAdd)
   } catch (error) {
     res.sendStatus(400).send(error)
   }
